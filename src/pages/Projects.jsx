@@ -8,29 +8,29 @@ import { FaGithub } from "react-icons/fa6";
 // You can also add more properties if you want to display more information about your projects.
 const myProjects = [
   {
-    title: 'Project 1',
-    description: 'Description of project 1',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'Code and Quill Bookstore',
+    description: 'Collaboration: API calls & Javascript',
+    repositoryLink: 'https://github.com/LauraWayxo/Code-and-Quill-Bookstore.git',
   },
   {
-    title: 'Project 2',
-    description: 'Description of project 2',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'CalEats.com Food Delivery App',
+    description: 'Typescript based application',
+    repositoryLink: 'https://github.com/LauraWayxo/p2t_capstone.git',
   },
   {
-    title: 'Project 3',
-    description: 'Description of project 3',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'FetchRain Weather Services',
+    description: 'Javascript & API capabilities',
+    repositoryLink: 'https://github.com/LauraWayxo/FetchRain.git',
   },
   {
-    title: 'Project 4',
-    description: 'Description of project 4',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'Laura Way Portfolio',
+    description: 'The application you are looking at right now',
+    repositoryLink: 'https://github.com/LauraWayxo/LauraDevPortfolio.git',
   },
   {
-    title: 'Project 5',
-    description: 'Description of project 5',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'Hack-a-Thon 90s Aesthetic Submission',
+    description: '72 Hour Hack-a-Thon Submission',
+    repositoryLink: 'https://github.com/LauraWayxo/90s-Aesthetic-ft-Codedex.git',
   },
 ];
 const Projects = () => {

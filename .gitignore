@@ -23,5 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
+#misc
+.env
+
 # Local Netlify folder
 .netlify
