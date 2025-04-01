@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import PlaceholderImage from '../assets/placeholder_image.png';
+import PlaceholderImage from '../assets/IMG_6498 (1).jpg';
 
 // Replace these variables with your information
 const firstName = 'Laura';
@@ -17,7 +17,7 @@ const About = () => {
       <section className='about-content-container'>
         <section className='image-container'>
           {/* Replace this placeholder image and alt tag with a professional headshot */}
-          <img className='headshot' src={PlaceholderImage} alt="placeholder image" />
+          <img className='headshot' src={PlaceholderImage} alt="Laura Headshot image all rights reserved" />
         </section>
         <section className='description-container'>
           <h2 className='text-xl font-medium'>I&apos;m {firstName}, a {jobTitle} working for, {company} on {mainDuty} located in, {jobLocation}</h2>
