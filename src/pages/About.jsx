@@ -7,11 +7,11 @@ const jobTitle = 'Full Stack Software Engineer';
 const company = 'DevCell & Associates';
 const mainDuty = '';
 const jobLocation = '';
-const briefJobDescription = 'Hi, I am Laura, a passionate Full Stack Software Engineer and the founder of DevCell & Associates, a software development firm specializing in both open source and private projects. Based in Alabama (but working remotely), I thrive on helping clients bring their ideas to life, whether it’s contributing to impactful open-source projects or developing tailored solutions for private ventures.';
+const briefJobDescription = 'Hi, I am Laura, a passionate Full Stack Software Engineer and the founder of DevCell & Associates, a software development firm specializing in both open source and private projects. Based in Alabama (but working remotely), I thrive on helping clients bring their ideas to life, whether it is contributing to impactful open-source projects or developing tailored solutions for private ventures.';
 
 const careerObjective = 'At DevCell & Associates, we offer a wide range of services, with a strong emphasis on open source contributions. I believe in the power of community and collaboration to drive innovation, and I actively engage in projects that make a difference in the software development world. As DevCell & Associates continues to grow, I am constantly evolving my skills and expanding my network. I am committed to staying at the forefront of tech advancements to better serve my clients and deliver solutions that exceed expectations.';
 
-const personalLife = 'Outside of coding, I am a wellness junkie and a content creator, always seeking new ways to balance personal growth with professional success. Now, I am channeling my problem-solving mindset into the world of software development, delivering clean, efficient code that solves real-world challenges. If you are looking for a dedicated developer or want to collaborate on an open-source project, I would d love to hear from you! Feel free to reach out and lets create something amazing together.';
+const personalLife = 'Outside of coding, I am a wellness junkie and a content creator, always seeking new ways to balance personal growth with professional success. Now, I am channeling my problem-solving mindset into the world of software development, delivering clean, efficient code that solves real-world challenges. If you are looking for a dedicated developer or want to collaborate on an open-source project, I would love to hear from you! Feel free to reach out and lets create something amazing together.';
 
 const About = () => {
   return (
