@@ -26,7 +26,7 @@ const About = () => {
           <p>{briefJobDescription}</p>
           <p>{careerObjective}</p>
           <p>{personalLife}</p>
-          <p className='mb-4'>If you are interested in my work, reach out to me!</p>
+          <p className='mb-4'> Use the click the button below to send an email!</p>
           <NavLink to="/contact" className="contact-me-btn">Contact Me</NavLink>
         </section>
       </section>
