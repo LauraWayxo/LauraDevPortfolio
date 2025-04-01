@@ -22,15 +22,19 @@ const Home = () => {
         <h2 className="subsection-big-header">Overview.</h2>
         <p className="subsection-paragraph">{professionalSummary}</p>
         <NavLink to="/about">
-        Learn More About Me
+        Learn More Laura
         </NavLink>
       </section>
       <section className="projects home-subsection">
         <h3 className="subsection-intro-header">My Works</h3>
         <h2 className="subsection-big-header">Projects.</h2>
-        <p className="subsection-paragraph">I have worked on multiple project, the projects I have worked on demonstrate my skills and experience through real-life examples of my work. Each project is briefly described and includes links to code repositories that showcase my ability to tackle challenging problems. If you are interested in my work click on the link below to go to the project page.</p>
+        <p className="subsection-paragraph">I have had the privilege of working on a variety of projects that showcase my skills and experience through real-world applications. Each project is thoughtfully presented with a brief description, along with links to the corresponding code repositories. These examples highlight my ability to solve complex problems and create efficient, scalable solutions.
+          
+        If you are interested in exploring my work further, click the link below to visit each projects dedicated page.
+
+</p>
         <NavLink to="/projects">
-        View Projects
+        Laura's Projects
         </NavLink>
       </section>
     </main>
