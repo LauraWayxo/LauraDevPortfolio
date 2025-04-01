@@ -5,7 +5,7 @@ import PlaceholderImage from '../assets/IMG_6498 (1).jpg';
 const firstName = 'Laura';
 const jobTitle = 'Full Stack Software Engineer';
 const company = 'DevCell & Associates';
-const mainDuty = '';
+const mainDuty = 'DevOps and BioInformatics';
 const jobLocation = 'Birmingham';
 const briefJobDescription = 'I am a passionate Full Stack Software Engineer and the founder of DevCell & Associates, a software development firm specializing in both open source and private projects. Based in Alabama (but working remotely), I thrive on helping clients bring their ideas to life, whether it is contributing to impactful open-source projects or developing tailored solutions for private ventures.';
 
